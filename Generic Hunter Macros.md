@@ -11,6 +11,7 @@ Icon: "Hisek Aim", 878211\
 <br>
 
 **<ins>Mend Pet</ins>**\
+Icon: "Spell ChangePositive", 135769\
 /use [@pet,dead]Revive Pet\
 /use [@pet,nodead,exists]Mend Pet\
 /use [nopet]Call Pet 1
